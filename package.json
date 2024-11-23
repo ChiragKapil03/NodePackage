@@ -1,0 +1,19 @@
+{
+  "name": "binary-search-by-ck",
+  "version": "1.0.0",
+  "description": "Binary search library by chirag kapil ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChiragKapil03/NodePackage.git"
+  },
+  "author": "Chirag Kapil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChiragKapil03/NodePackage/issues"
+  },
+  "homepage": "https://github.com/ChiragKapil03/NodePackage#readme"
+}
